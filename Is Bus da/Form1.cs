@@ -32,6 +32,7 @@ namespace Is_Bus_da
             if (e.Error != null)
             {
                 MessageBox.Show(e.Error.Message);
+                this.update_button.Enabled = true;
                 return;
             }
             DepartureInfo[] infos = e.Result as DepartureInfo[];
