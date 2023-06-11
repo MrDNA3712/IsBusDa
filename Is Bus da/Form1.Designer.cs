@@ -118,7 +118,6 @@
             this.name_label4.Name = "name_label4";
             this.name_label4.Size = new System.Drawing.Size(266, 45);
             this.name_label4.TabIndex = 7;
-            this.name_label4.Text = "";
             this.name_label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // name_label3
@@ -130,7 +129,6 @@
             this.name_label3.Name = "name_label3";
             this.name_label3.Size = new System.Drawing.Size(266, 45);
             this.name_label3.TabIndex = 6;
-            this.name_label3.Text = "";
             this.name_label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // name_label2
@@ -142,7 +140,6 @@
             this.name_label2.Name = "name_label2";
             this.name_label2.Size = new System.Drawing.Size(266, 45);
             this.name_label2.TabIndex = 5;
-            this.name_label2.Text = "";
             this.name_label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // name_label1
@@ -154,7 +151,6 @@
             this.name_label1.Name = "name_label1";
             this.name_label1.Size = new System.Drawing.Size(266, 45);
             this.name_label1.TabIndex = 4;
-            this.name_label1.Text = "";
             this.name_label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // name_label0
@@ -166,7 +162,7 @@
             this.name_label0.Name = "name_label0";
             this.name_label0.Size = new System.Drawing.Size(266, 45);
             this.name_label0.TabIndex = 1;
-            this.name_label0.Text = "";
+            this.name_label0.Text = "Lädt...";
             this.name_label0.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // time_label4
@@ -178,7 +174,6 @@
             this.time_label4.Name = "time_label4";
             this.time_label4.Size = new System.Drawing.Size(130, 45);
             this.time_label4.TabIndex = 10;
-            this.time_label4.Text = "";
             this.time_label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // remaining_label4
@@ -190,7 +185,6 @@
             this.remaining_label4.Name = "remaining_label4";
             this.remaining_label4.Size = new System.Drawing.Size(130, 45);
             this.remaining_label4.TabIndex = 12;
-            this.remaining_label4.Text = "";
             this.remaining_label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // remaining_label3
@@ -202,7 +196,6 @@
             this.remaining_label3.Name = "remaining_label3";
             this.remaining_label3.Size = new System.Drawing.Size(130, 45);
             this.remaining_label3.TabIndex = 13;
-            this.remaining_label3.Text = "";
             this.remaining_label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // time_label3
@@ -214,7 +207,6 @@
             this.time_label3.Name = "time_label3";
             this.time_label3.Size = new System.Drawing.Size(130, 45);
             this.time_label3.TabIndex = 11;
-            this.time_label3.Text = "";
             this.time_label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // time_label2
@@ -226,7 +218,6 @@
             this.time_label2.Name = "time_label2";
             this.time_label2.Size = new System.Drawing.Size(130, 45);
             this.time_label2.TabIndex = 9;
-            this.time_label2.Text = "";
             this.time_label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // remaining_label2
@@ -238,7 +229,6 @@
             this.remaining_label2.Name = "remaining_label2";
             this.remaining_label2.Size = new System.Drawing.Size(130, 45);
             this.remaining_label2.TabIndex = 14;
-            this.remaining_label2.Text = "";
             this.remaining_label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // time_label1
@@ -250,7 +240,6 @@
             this.time_label1.Name = "time_label1";
             this.time_label1.Size = new System.Drawing.Size(130, 45);
             this.time_label1.TabIndex = 8;
-            this.time_label1.Text = "";
             this.time_label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // remaining_label1
@@ -262,7 +251,6 @@
             this.remaining_label1.Name = "remaining_label1";
             this.remaining_label1.Size = new System.Drawing.Size(130, 45);
             this.remaining_label1.TabIndex = 15;
-            this.remaining_label1.Text = "";
             this.remaining_label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // remaining_label0
@@ -275,7 +263,6 @@
             this.remaining_label0.Name = "remaining_label0";
             this.remaining_label0.Size = new System.Drawing.Size(130, 45);
             this.remaining_label0.TabIndex = 3;
-            this.remaining_label0.Text = "";
             this.remaining_label0.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // time_label0
@@ -287,7 +274,6 @@
             this.time_label0.Name = "time_label0";
             this.time_label0.Size = new System.Drawing.Size(130, 45);
             this.time_label0.TabIndex = 2;
-            this.time_label0.Text = "";
             this.time_label0.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label1
